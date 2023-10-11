@@ -217,7 +217,7 @@ VALUES (
         500000,
         false,
         'old historical ranch house',
-        'https: / / images.unsplash.com / photo -1649197373372 -2 c08e2093bf7 ? ixlib = rb -4.0.3 & ixid = M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA % 3 D % 3 D & auto = format & fit = crop & w = 1470 & q = 80'
+        'https:/ages.unsplash.com/oto-649197373372-c8e2093bf7?lib=-.0.3&id=wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%to=rmat&t=op&70&80'
     );
 
 INSERT INTO
